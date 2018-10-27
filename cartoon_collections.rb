@@ -27,7 +27,7 @@ def find_the_cheese(ingredients)
       ingredients.each do |cheese|
        
    end
-     
+     cheese
   end
  end
  
