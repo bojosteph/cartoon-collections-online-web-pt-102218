@@ -24,7 +24,7 @@ def find_the_cheese(ingredients)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
    if ingredients.include? cheese_types
-     return element 
+     return cheese_types
    else 
      return nil
   end
