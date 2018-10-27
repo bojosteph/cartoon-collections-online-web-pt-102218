@@ -9,7 +9,7 @@ def roll_call_dwarves(dwarves)
 
 
 def summon_captain_planet(planeteer_calls)
-  # Your code here
+  
     
 end
 
