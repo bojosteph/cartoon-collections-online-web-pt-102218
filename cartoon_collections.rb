@@ -8,9 +8,9 @@ def roll_call_dwarves(dwarves)
 
 
 
-def summon_captain_planet()
+def summon_captain_planet(planeteer_calls)
   # Your code here
-   veggies.each do 
+    
 end
 
 def long_planeteer_calls# code an argument here
