@@ -26,7 +26,7 @@ def find_the_cheese(ingredients)
   ingredients.include?.downcase(cheese_types)
   cheese_types.each do |cheese|
     puts cheese
-  
+  end
   
  end
 
