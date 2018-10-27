@@ -26,4 +26,4 @@ def find_the_cheese(ingredients)
   ingredients.include? cheese_types
   puts cheese_types
  end
-end
+
